@@ -1,4 +1,4 @@
 # Aged Care PDFs
-Generally educational content i have shared on LinkedIn relating to Aged Care.
+This repository contains educational content I have shared on LinkedIn relating to aged care.
 
-Created with the assistance of AI (i.e Google Gemini, ChatGPT and NotebookLM)
+Created with the assistance of AI (i.e., Google Gemini, ChatGPT, and NotebookLM)
